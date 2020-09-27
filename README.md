@@ -1,6 +1,6 @@
-#开始学习
+# 开始学习
 
-##pytorch
+## pytorch
 
 forward，在对loss初始化是就已经执行了。
 

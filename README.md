@@ -2,4 +2,5 @@
 
 ## pytorch
 
-forward()，在对loss初始化是就已经执行了。\n backword()，用来求导
+forward()，在对loss初始化是就已经执行了。  
+backword()，用来求导
